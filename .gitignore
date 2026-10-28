@@ -1,0 +1,8 @@
+# Dados reais do cliente: nunca versionar
+*.xlsx
+*.xls
+*.docx
+data/raw/
+data/privado/
+.ipynb_checkpoints/
+.DS_Store
